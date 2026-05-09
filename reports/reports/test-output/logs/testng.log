@@ -1,0 +1,13 @@
+[INFO ] 2026-05-07 14:20:37 127 [main] Hooks - Scenario started: Login with valid credentials
+[INFO ] 2026-05-07 14:20:53 451 [main] Hooks - Scenario passed: Login with valid credentials
+[INFO ] 2026-05-07 14:24:45 484 [main] Hooks - Scenario started: Login with valid credentials
+[ERROR] 2026-05-07 14:25:04 238 [main] Hooks - Scenario failed: Login with valid credentials
+[INFO ] 2026-05-07 14:30:09 712 [main] Hooks - Scenario started: Login with valid credentials
+[ERROR] 2026-05-07 14:30:26 583 [main] Hooks - Scenario failed: Login with valid credentials
+[INFO ] 2026-05-07 14:39:40 598 [main] Hooks - Scenario started: Login with valid credentials
+[ERROR] 2026-05-07 14:40:00 000 [main] Hooks - Scenario failed: Login with valid credentials
+[INFO ] 2026-05-07 14:41:27 361 [main] Hooks - Scenario started: Login with valid credentials
+[ERROR] 2026-05-07 14:41:45 536 [main] Hooks - Scenario failed: Login with valid credentials
+[INFO ] 2026-05-07 15:29:00 932 [main] Hooks - Scenario started: Login with valid credentials
+[INFO ] 2026-05-07 15:31:30 884 [main] Hooks - Scenario started: Login with valid credentials
+[ERROR] 2026-05-07 15:32:00 453 [main] Hooks - Scenario failed: Login with valid credentials
