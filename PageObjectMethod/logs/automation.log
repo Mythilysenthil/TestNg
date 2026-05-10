@@ -1,0 +1,96 @@
+2026-05-10 22:44:34 INFO  listerners.TestListener - Execution Started
+2026-05-10 22:44:34 INFO  com.test.BaseTest - Browser launched
+2026-05-10 22:44:43 INFO  com.test.BaseTest - Application launched
+2026-05-10 22:44:43 INFO  listerners.TestListener - Test Started: DashboardTest
+2026-05-10 22:44:46 INFO  listerners.TestListener - Test Passed: DashboardTest
+2026-05-10 22:44:46 INFO  com.test.BaseTest - Browser closed
+2026-05-10 22:44:46 INFO  com.test.BaseTest - Browser launched
+2026-05-10 22:44:54 INFO  com.test.BaseTest - Application launched
+2026-05-10 22:44:54 INFO  listerners.TestListener - Test Started: loginTest
+2026-05-10 22:44:55 INFO  listerners.TestListener - Test Passed: loginTest
+2026-05-10 22:44:55 INFO  com.test.BaseTest - Browser closed
+2026-05-10 22:44:55 INFO  listerners.TestListener - Execution Finished
+2026-05-10 22:48:44 INFO  listerners.TestListener - Execution Started
+2026-05-10 22:48:44 INFO  com.test.BaseTest - Browser launched
+2026-05-10 22:48:52 INFO  com.test.BaseTest - Application launched
+2026-05-10 22:48:52 INFO  listerners.TestListener - Test Started: DashboardTest
+2026-05-10 22:48:58 INFO  listerners.TestListener - Test Passed: DashboardTest
+2026-05-10 22:48:58 INFO  com.test.BaseTest - Browser closed
+2026-05-10 22:48:58 INFO  com.test.BaseTest - Browser launched
+2026-05-10 22:49:07 INFO  com.test.BaseTest - Application launched
+2026-05-10 22:49:07 INFO  listerners.TestListener - Test Started: loginTest
+2026-05-10 22:49:09 INFO  listerners.TestListener - Test Passed: loginTest
+2026-05-10 22:49:09 INFO  com.test.BaseTest - Browser closed
+2026-05-10 22:49:09 INFO  listerners.TestListener - Execution Finished
+2026-05-10 23:18:08 INFO  listerners.TestListener - Execution Started
+2026-05-10 23:18:08 INFO  com.test.BaseTest - Browser launched
+2026-05-10 23:18:17 INFO  com.test.BaseTest - Application launched
+2026-05-10 23:18:19 ERROR listerners.TestListener - Test Failed: DashboardTest
+2026-05-10 23:18:19 INFO  listerners.TestListener - Screenshot captured
+2026-05-10 23:18:19 INFO  com.test.BaseTest - Browser closed
+2026-05-10 23:18:19 INFO  com.test.BaseTest - Browser launched
+2026-05-10 23:18:28 INFO  com.test.BaseTest - Application launched
+2026-05-10 23:18:28 ERROR listerners.TestListener - Test Failed: verifyLogin
+2026-05-10 23:18:28 INFO  listerners.TestListener - Screenshot captured
+2026-05-10 23:18:28 INFO  com.test.BaseTest - Browser closed
+2026-05-10 23:18:28 INFO  listerners.TestListener - Execution Finished
+2026-05-10 23:20:29 INFO  listerners.TestListener - Execution Started
+2026-05-10 23:20:29 INFO  com.test.BaseTest - Browser launched
+2026-05-10 23:20:36 INFO  com.test.BaseTest - Application launched
+2026-05-10 23:20:37 ERROR listerners.TestListener - Test Failed: DashboardTest
+2026-05-10 23:20:37 INFO  listerners.TestListener - Screenshot captured
+2026-05-10 23:20:37 INFO  com.test.BaseTest - Browser closed
+2026-05-10 23:20:38 INFO  com.test.BaseTest - Browser launched
+2026-05-10 23:20:45 INFO  com.test.BaseTest - Application launched
+2026-05-10 23:20:45 ERROR listerners.TestListener - Test Failed: verifyLogin
+2026-05-10 23:20:46 INFO  listerners.TestListener - Screenshot captured
+2026-05-10 23:20:46 INFO  com.test.BaseTest - Browser closed
+2026-05-10 23:20:46 INFO  listerners.TestListener - Execution Finished
+2026-05-10 23:26:31 INFO  listerners.TestListener - Execution Started
+2026-05-10 23:26:31 INFO  com.test.BaseTest - Browser launched
+2026-05-10 23:27:29 INFO  com.test.BaseTest - Application launched
+2026-05-10 23:27:29 ERROR listerners.TestListener - Test Failed: DashboardTest
+2026-05-10 23:27:29 INFO  listerners.TestListener - Screenshot captured
+2026-05-10 23:27:29 INFO  com.test.BaseTest - Browser closed
+2026-05-10 23:27:29 INFO  com.test.BaseTest - Browser launched
+2026-05-10 23:27:40 INFO  com.test.BaseTest - Application launched
+2026-05-10 23:27:40 ERROR listerners.TestListener - Test Failed: verifyLogin
+2026-05-10 23:27:40 INFO  listerners.TestListener - Screenshot captured
+2026-05-10 23:27:40 INFO  com.test.BaseTest - Browser closed
+2026-05-10 23:27:41 INFO  listerners.TestListener - Execution Finished
+2026-05-10 23:27:57 INFO  listerners.TestListener - Execution Started
+2026-05-10 23:27:57 INFO  com.test.BaseTest - Browser launched
+2026-05-10 23:28:11 INFO  com.test.BaseTest - Application launched
+2026-05-10 23:28:11 ERROR listerners.TestListener - Test Failed: DashboardTest
+2026-05-10 23:28:11 INFO  listerners.TestListener - Screenshot captured
+2026-05-10 23:28:11 INFO  com.test.BaseTest - Browser closed
+2026-05-10 23:28:12 INFO  com.test.BaseTest - Browser launched
+2026-05-10 23:28:37 INFO  com.test.BaseTest - Application launched
+2026-05-10 23:28:37 ERROR listerners.TestListener - Test Failed: verifyLogin
+2026-05-10 23:28:37 INFO  listerners.TestListener - Screenshot captured
+2026-05-10 23:28:37 INFO  com.test.BaseTest - Browser closed
+2026-05-10 23:28:38 INFO  listerners.TestListener - Execution Finished
+2026-05-10 23:31:18 INFO  listeners.TestListener - Execution Started
+2026-05-10 23:31:18 INFO  com.test.BaseTest - Browser launched
+2026-05-10 23:31:31 INFO  com.test.BaseTest - Application launched
+2026-05-10 23:31:31 ERROR listeners.TestListener - Test Failed: DashboardTest
+2026-05-10 23:31:31 INFO  listeners.TestListener - Screenshot captured
+2026-05-10 23:31:31 INFO  com.test.BaseTest - Browser closed
+2026-05-10 23:31:32 INFO  com.test.BaseTest - Browser launched
+2026-05-10 23:31:40 INFO  com.test.BaseTest - Application launched
+2026-05-10 23:31:40 ERROR listeners.TestListener - Test Failed: verifyLogin
+2026-05-10 23:31:40 INFO  listeners.TestListener - Screenshot captured
+2026-05-10 23:31:40 INFO  com.test.BaseTest - Browser closed
+2026-05-10 23:31:40 INFO  listeners.TestListener - Execution Finished
+2026-05-10 23:32:00 INFO  listeners.TestListener - Execution Started
+2026-05-10 23:32:00 INFO  com.test.BaseTest - Browser launched
+2026-05-10 23:32:08 INFO  com.test.BaseTest - Application launched
+2026-05-10 23:32:08 ERROR listeners.TestListener - Test Failed: DashboardTest
+2026-05-10 23:32:08 INFO  listeners.TestListener - Screenshot captured
+2026-05-10 23:32:08 INFO  com.test.BaseTest - Browser closed
+2026-05-10 23:32:08 INFO  com.test.BaseTest - Browser launched
+2026-05-10 23:32:38 INFO  com.test.BaseTest - Application launched
+2026-05-10 23:32:38 ERROR listeners.TestListener - Test Failed: verifyLogin
+2026-05-10 23:32:38 INFO  listeners.TestListener - Screenshot captured
+2026-05-10 23:32:38 INFO  com.test.BaseTest - Browser closed
+2026-05-10 23:32:39 INFO  listeners.TestListener - Execution Finished
