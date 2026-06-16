@@ -3,7 +3,15 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
+      <class name="com.testpractice.Post1Commend"/>
+      <class name="com.tests.ApiValidationTest"/>
+      <class name="com.testpractice.Getpost1"/>
+      <class name="com.testpractice.PutPost1Test"/>
+      <class name="com.tests.SeleniumTest"/>
+      <class name="com.testpractice.CommentPostId1"/>
+      <class name="com.testpractice.GetUserTest"/>
       <class name="com.tests.GetUserTest"/>
+      <class name="com.tests.CreateUserTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
