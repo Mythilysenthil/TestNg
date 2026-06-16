@@ -13,8 +13,7 @@ public class BaseTest {
 
     public static WebDriver driver;
 
-    private static final Logger log =
-            LogManager.getLogger(BaseTest.class);
+    private static final Logger log = LogManager.getLogger(BaseTest.class);
 
     @BeforeClass
     public void setup() {
